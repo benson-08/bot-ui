@@ -1,7 +1,27 @@
+
 .App {
   text-align: center;
-  height: 100vh;
+}
+.logoArea{
+  padding: 50px;
+}
+
+.formSection{
   width: 90vw;
+  margin: 5%;
+  padding: 5%;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
+
+.flatType{
+  text-align: left;
+}
+
+.outputBox{
+  position: absolute;
+  bottom: 0px;
   padding: 10px;
-  margin: auto auto;
+  background-color: black;
+  color: aliceblue;
 }

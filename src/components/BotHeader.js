@@ -10,7 +10,7 @@ export default class BotHeader extends Component {
   render() {
     return (
         <>
-            <div>
+            <div className="logoArea">
                 <img alt="Logo" src='https://immobilien-bot.de/wp-content/uploads/2023/01/immobilien-bot-error.png' height={this.props.height} />
             </div>
         </>
