@@ -1,27 +1,17 @@
-
-.App {
-  text-align: center;
-}
-.logoArea{
-  padding: 50px;
-}
-
-.formSection{
-  width: 90vw;
-  margin: 5%;
-  padding: 5%;
-  border-radius: 10px;
-  background-color: aliceblue;
-}
-
-.flatType{
-  text-align: left;
+.MuiContainer-root{
+  margin-top:20px;
 }
 
 .outputBox{
   position: absolute;
   bottom: 0px;
+  width: 100%;
+  text-align: center;
   padding: 10px;
   background-color: black;
   color: aliceblue;
+}
+
+.MuiGrid-item{
+  text-align: center;
 }

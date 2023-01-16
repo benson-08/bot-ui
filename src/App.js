@@ -14,7 +14,6 @@ import '@fontsource/roboto/700.css';
 function App() {
   return (
     <div className="App" >
-      <BotHeader height={100} />
       <BotForm/>
     </div>
   );
